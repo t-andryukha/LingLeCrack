@@ -12,7 +12,11 @@ document.getElementsByTagName('head')[0].appendChild(jq2);
 var botsNeededCount = 100;
 var login = "tarandex";
 /*
- 4. Paste remaining part of script
+ 4.Set your invitation url
+ */
+var invitationUrl = "http://lingualeo.com/ru/r/98dklm";
+/*
+ 5. Paste remaining part of script and don't close this tab
  */
 logOutBot();
 var accountId = 1;
@@ -40,7 +44,7 @@ function getInvitationPage() {
     console.log("getInvitationPage");
     $.ajax({
         type: 'GET',
-        url: "http://lingualeo.com/ru/r/98dklm",
+        url: invitationUrl,
         async: true,
         xhrFields: {
             withCredentials: true

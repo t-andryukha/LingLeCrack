@@ -1,7 +1,7 @@
 /*
- 5. Open lingualeo page
+ 6. Open lingualeo page in new tab in the same browser
  e.g. https://lingualeo.com/ru/dashboard
- 6. paste to the browser console next script
+ 7. paste to the browser console next script
  */
 
 improveBotLevel();
