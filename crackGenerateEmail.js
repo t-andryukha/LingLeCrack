@@ -10,7 +10,7 @@ document.getElementsByTagName('head')[0].appendChild(jq2);
  3. change constants as you need
  */
 var botsNeededCount = 100;
-var login = "tarandex";
+var login = "tarandexxq";
 /*
  4.Set your invitation url
  */

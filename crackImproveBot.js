@@ -2,6 +2,7 @@
  6. Open lingualeo page in new tab in the same browser
  e.g. https://lingualeo.com/ru/dashboard
  7. paste to the browser console next script
+ 8.it is better to close browser consoles then
  */
 
 improveBotLevel();
@@ -41,4 +42,5 @@ function setPageLearnt() {
         }
     });
 }
+
 
